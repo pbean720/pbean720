@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pbean720
-- 👀 I’m interested in UX, Web and App Design, and Data Science
-- 🌱 I’m currently learning Computer Science in college
+- 👀 I’m interested in UX and Web and App Design and Development
+- 🌱 I’m currently a senior learning Computer Science in college
 - 💞️ I’m looking to collaborate on front-end design and python projects
 - 📫 How to reach me: on GitHub!
 
