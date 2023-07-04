@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pbean720
-- 👀 I’m interested in Web and App Design and Development
-- 🌱 I’m a recent graduatw with a B.A. in Computer Science
+- 👀 I’m interested in Web Design and Development
+- 🌱 I have a B.A. in Computer Science
 - 💞️ I’m looking to collaborate on front-end design and python projects
 - 📫 How to reach me: on GitHub!
 
